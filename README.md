@@ -11,7 +11,7 @@
 [<img align="left" alt="NALStudio.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="NALStudio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />][youtube]
 [<img align="left" alt="NALStudio | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/steam.svg" />][steam]
-[<img align="left" alt="NALStudio | Xbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/xbox.svg" />]
+[<img align="left" alt="NALStudio | Xbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/xbox.svg" />][xbox]
 [<img align="left" alt="NALStudio | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg" />][discord]
 [<img align="left" alt="NALStudio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/instagram.svg" />][instagram]
 [<img align="left" alt="NALStudio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg" />][twitter]
@@ -31,6 +31,7 @@
 [website]: http://NALStudio.tk
 [youtube]: https://www.youtube.com/channel/UCNksI7dqXOdOisfD0Ps3oKg
 [steam]: https://steamcommunity.com/id/NALStudio
+[xbox]: https://www.xbox.com
 [discord]: https://discord.com/users/340460001564819456
 [instagram]: https://instagram.com/niko.a.leinonen
 [twitter]: https://twitter.com/NAL_Studio
