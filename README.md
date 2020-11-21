@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscodeLink]
-[<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Unity_Tab_Logo.svg" />][unityLink]
+[<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />][unityLink]
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][csharpLink]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][pythonLink]
 [<img align="left" alt="JSON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />][jsonLink]
