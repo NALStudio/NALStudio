@@ -35,6 +35,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SimAirport Sign Generator](https://www.youtube.com/watch?v=cwrzWckmiQs)
+- [Äidinkieli Lausekeanalyysi Peli Demo (Release Version)](https://www.youtube.com/watch?v=sLi4CjvYsEw)
+- [Äidinkieli Lausekeanalyysi Peli Demo (ALPHA FOOTAGE)](https://www.youtube.com/watch?v=tqIGCBIscvs)
 <!-- YOUTUBE:END -->
 
 [website]: http://NALStudio.tk
