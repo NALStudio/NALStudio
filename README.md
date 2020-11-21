@@ -16,6 +16,8 @@
 [<img align="left" alt="NALStudio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/instagram.svg" />][instagram]
 [<img align="left" alt="NALStudio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg" />][twitter]
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio 2019" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vsLink]
@@ -27,6 +29,10 @@
 [<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />][gitLink]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />][gitHubLink]
 [<img align="left" alt="Stack Overflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackOverflowLink]
+
+
+
+
 
 [website]: http://NALStudio.tk
 [youtube]: https://www.youtube.com/channel/UCNksI7dqXOdOisfD0Ps3oKg
