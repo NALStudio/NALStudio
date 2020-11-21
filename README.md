@@ -45,13 +45,9 @@
 ➡️ [more videos...][youtube]
 
 ---
+[<img align="left" alt="NAL's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NALStudio&show_icons=true&hide_border=true&count_private=true" />][github]
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="NAL's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NALStudio&show_icons=true&hide_border=true&count_private=true" />
-
-</details>
+[github]: https://github.com/NALStudio
 
 [website]: http://NALStudio.tk
 [youtube]: https://www.youtube.com/channel/UCNksI7dqXOdOisfD0Ps3oKg
