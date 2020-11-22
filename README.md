@@ -26,7 +26,7 @@
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][csharpLink]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][pythonLink]
 [<img align="left" alt="JSON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />][jsonLink]
-[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />][gitLink]
+[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg" />][gitLink]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />][gitHubLink]
 [<img align="left" alt="Stack Overflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackOverflowLink]
 
