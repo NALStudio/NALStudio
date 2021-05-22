@@ -46,9 +46,6 @@
 
 ---
 
-[<img align="left" alt="NAL's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NALStudio&show_icons=true&hide_border=true&count_private=true" />][github]
-
-
 
 [github]: https://github.com/NALStudio
 
