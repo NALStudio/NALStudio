@@ -46,7 +46,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)](github)
+[![NAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalstudio&count_private=true)](github)
 
 [github]: https://github.com/NALStudio
 
