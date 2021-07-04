@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on <b>Koponen Dating Simulator</b>.
 - 🌱 I’m currently learning <b>Python</b>.
 - 💬 Ask me anything!
-- ⚡ Fun fact: Koponen Dating Simulator is the flagship product of KL Corporation.
+- ⚡ Fun fact: I hate JavaScript.
 
 ### Connect with me:
 
