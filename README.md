@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio 2019" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vsLink]
+[<img align="left" alt="Visual Studio 2019" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />][vsLink]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscodeLink]
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />][unityLink]
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />][csharpLink]
