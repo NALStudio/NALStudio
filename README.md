@@ -2,7 +2,7 @@
 
 ## I make games and stuff.
 - 🔭 I’m currently working on <b>Laudatur, Please</b>.
-- 🌱 I’m currently learning <b>Python</b>.
+- 🌱 I’m currently learning <b>null</b>.
 - 💬 Ask me anything!
 - ⚡ Fun fact: I hate JavaScript.
 
