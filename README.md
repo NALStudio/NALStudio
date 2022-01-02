@@ -1,7 +1,7 @@
 ### Hi there, I'm NAL - CEO of [NALStudio][website] 👋
 
 ## I make games and stuff.
-- 🔭 I’m currently working on <b>null</b>.
+- 🔭 I’m currently working on <b>Laudatur, Please</b>.
 - 🌱 I’m currently learning <b>Python</b>.
 - 💬 Ask me anything!
 - ⚡ Fun fact: I hate JavaScript.
