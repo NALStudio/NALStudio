@@ -1,6 +1,6 @@
 # Hi there, I'm NAL 👋
 - 👔 CEO of NALStudio
-- 👥 Member of KL Corporation's board of trustees.
+- 👥 Member of KL Corporation's board of trustees
 
 ### I make games and stuff
 - 🔭 I’m currently working on <b>Laudatur, Please</b>.
