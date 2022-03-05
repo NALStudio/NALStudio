@@ -1,7 +1,8 @@
-### Hi there, I'm NAL 👋
+# Hi there, I'm NAL 👋
 - 👔 CEO of NALStudio
 - 👥 Member of KL Corporation's board of trustees.
 
+### I make games and stuff
 - 🔭 I’m currently working on <b>Laudatur, Please</b>.
 - 🌱 I’m currently learning <b>null</b>.
 - 💬 Ask me anything!
@@ -36,14 +37,8 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [SimAirport Sign Generator](https://www.youtube.com/watch?v=cwrzWckmiQs)
-- [Äidinkieli Lausekeanalyysi Peli Demo &lpar;Release Version&rpar;](https://www.youtube.com/watch?v=sLi4CjvYsEw)
-- [Äidinkieli Lausekeanalyysi Peli Demo &lpar;ALPHA FOOTAGE&rpar;](https://www.youtube.com/watch?v=tqIGCBIscvs)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
+### 📺 YouTube Videos
+➡️ [here][youtube]
 
 ---
 
