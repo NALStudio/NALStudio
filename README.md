@@ -38,7 +38,7 @@
 ---
 
 ### 📺 YouTube Videos
-➡️ [here][youtube]
+➡️ [NALStudio][youtube]
 
 ---
 
