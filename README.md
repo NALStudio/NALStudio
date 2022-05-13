@@ -1,5 +1,5 @@
 # Hi there, I'm Niko 👋
-- 👔 CEO of NALStudio  /s
+- 👔 CEO of NALStudio
 - 👥 Member of KL Corporation's board of trustees
 
 ### I make games and stuff
