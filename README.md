@@ -10,7 +10,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="NALStudio.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="NALStudio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />][youtube]
 [<img align="left" alt="NALStudio | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/steam.svg" />][steam]
 [<img align="left" alt="NALStudio | Xbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/xbox.svg" />][xbox]
@@ -22,7 +21,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio 2019" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />][vsLink]
+[<img align="left" alt="Visual Studio 2022" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />][vsLink]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscodeLink]
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />][unityLink]
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />][csharpLink]
