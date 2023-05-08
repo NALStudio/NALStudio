@@ -3,7 +3,7 @@
 - 👥 Member of KL Corporation's board of trustees
 
 ### I make games and stuff
-- 🔭 I’m currently working on <b>Wilma.NET</b>.
+- 🔭 I’m currently working on <b>KDS: Multiplayer</b>.
 - 🌱 I’m currently learning <b>null</b>.
 - 💬 Ask me anything!
 - ⚡ Fun fact: I hate JavaScript.
