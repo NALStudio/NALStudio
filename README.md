@@ -3,41 +3,38 @@
 - 👥 Member of KL Corporation's board of trustees
 
 ### I make games and stuff
-- 🔭 I’m currently working on <b>KDS: Multiplayer</b>.
-- 🌱 I’m currently learning <b>null</b>.
+- 🔭 I’m currently working on <b>[Nysse Asemanäyttö](https://github.com/NALStudio/Nysse-Asemanaytto-V2)</b>.
+- 🌱 I’m currently learning <b>Flutter/Dart</b>.
 - 💬 Ask me anything!
 - ⚡ Fun fact: I hate JavaScript.
 
 ### Connect with me:
 
-[<img align="left" alt="NALStudio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />][youtube]
-[<img align="left" alt="NALStudio | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/steam.svg" />][steam]
-[<img align="left" alt="NALStudio | Xbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/xbox.svg" />][xbox]
-[<img align="left" alt="NALStudio | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg" />][discord]
-[<img align="left" alt="NALStudio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/instagram.svg" />][instagram]
-[<img align="left" alt="NALStudio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg" />][twitter]
+[<img align="left" title="NALStudio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" />](https://www.youtube.com/channel/UCNksI7dqXOdOisfD0Ps3oKg)
+[<img align="left" title="NALStudio | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/steam.svg" />](https://steamcommunity.com/id/NALStudio)
+<img align="left" title="NALStudio | Xbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/xbox.svg" />
+[<img align="left" title="NALStudio | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" />](https://discord.com/users/340460001564819456)
+[<img align="left" title="NALStudio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />](https://instagram.com/niko.a.leinonen)
+[<img align="left" title="NALStudio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" />](https://twitter.com/NAL_Studio)
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio 2022" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />][vsLink]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscodeLink]
-[<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />][unityLink]
-[<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />][csharpLink]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][pythonLink]
-[<img align="left" alt="JSON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />][jsonLink]
-[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg" />][gitLink]
-[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />][gitHubLink]
-[<img align="left" alt="Stack Overflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackOverflowLink]
+[<img align="left" title="Visual Studio 2022" height="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />](https://visualstudio.com)
+[<img align="left" title="Visual Studio Code" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](https://code.visualstudio.com)
+[<img align="left" title="Unity" height="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />](https://unity.com)
+[<img align="left" title="Flutter" height="26px" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" />](https://flutter.dev/)
+[<img align="left" title="C#" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />](https://dotnet.microsoft.com/en-us/languages/csharp)
+[<img align="left" title="Python" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org)
+[<img align="left" title="Dart" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg" />](https://dart.dev/)
+[<img align="left" title="JSON" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />](https://www.json.org)
+[<img align="left" title="Git" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg" />](https://git-scm.com)
+[<img align="left" title="GitHub" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />](https://github.com)
+[<img align="left" title="Stack Overflow" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />](https://stackoverflow.com)
 
 <br />
 <br />
-
----
-
-### 📺 YouTube Videos
-➡️ [NALStudio][youtube]
 
 ---
 
@@ -45,21 +42,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalstudio&layout=compact)][github]
 
 [github]: https://github.com/NALStudio
-
-[website]: http://NALStudio.tk
-[youtube]: https://www.youtube.com/channel/UCNksI7dqXOdOisfD0Ps3oKg
-[steam]: https://steamcommunity.com/id/NALStudio
-[xbox]: https://www.xbox.com
-[discord]: https://discord.com/users/340460001564819456
-[instagram]: https://instagram.com/niko.a.leinonen
-[twitter]: https://twitter.com/NAL_Studio
-
-[vsLink]: https://visualstudio.com
-[vscodeLink]: https://code.visualstudio.com
-[unityLink]: https://unity.com
-[csharpLink]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-[pythonLink]: https://www.python.org
-[jsonLink]: https://www.json.org
-[gitLink]: https://git-scm.com
-[gitHubLink]: https://github.com
-[stackOverflowLink]: https://stackoverflow.com
