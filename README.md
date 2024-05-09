@@ -25,7 +25,7 @@
 [<img align="left" title="Visual Studio Code" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](https://code.visualstudio.com)
 [<img align="left" title="Unity" height="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />](https://unity.com)
 [<img align="left" title="Flutter" height="26px" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" />](https://flutter.dev/)
-[<img align="left" title="C#" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />](https://dotnet.microsoft.com/en-us/languages/csharp)
+[<img align="left" title="C#" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />](https://dotnet.microsoft.com/en-us/languages/csharp)
 [<img align="left" title="Python" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org)
 [<img align="left" title="Dart" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg" />](https://dart.dev/)
 [<img align="left" title="JSON" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />](https://www.json.org)
