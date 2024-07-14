@@ -10,12 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" title="NALStudio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" />](https://www.youtube.com/channel/UCNksI7dqXOdOisfD0Ps3oKg)
-[<img align="left" title="NALStudio | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/steam.svg" />](https://steamcommunity.com/id/NALStudio)
-<img align="left" title="NALStudio | Xbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/xbox.svg" />
-[<img align="left" title="NALStudio | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" />](https://discord.com/users/340460001564819456)
-[<img align="left" title="NALStudio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />](https://instagram.com/niko.a.leinonen)
-[<img align="left" title="NALStudio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" />](https://twitter.com/NAL_Studio)
+[<img align="left" title="NALStudio | YouTube" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/youtube.svg" />](https://www.youtube.com/channel/UCNksI7dqXOdOisfD0Ps3oKg)
+[<img align="left" title="NALStudio | Instagram" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/instagram.svg" />](https://instagram.com/niko.a.leinonen)
+[<img align="left" title="NALStudio | Steam" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/steam.svg" />](https://steamcommunity.com/id/NALStudio)
+<img align="left" title="NALStudio | Xbox" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/xbox.svg" />
+[<img align="left" title="NALStudio | Spotify" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/spotify.svg" />](https://open.spotify.com/user/nikoalex2005?si=e4934676839940d1)
+[<img align="left" title="NALStudio | Discord" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/discord.svg" />](https://discord.com/users/340460001564819456)
 
 <br />
 
@@ -38,6 +38,5 @@
 
 ---
 
-[![NAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalstudio&count_private=true) <p align="right"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalstudio&layout=compact)][github]
-
-[github]: https://github.com/NALStudio
+| <a href="https://github.com/NALStudio"><img align="center" title="NAL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nalstudio&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" /></a> | <a href="https://github.com/NALStudio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalstudio&layout=normal&langs_count=3&size_weight=0.5&count_weight=0.5&hide_border=true" /></a> |
+| ------------- | ------------- |
