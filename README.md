@@ -14,7 +14,7 @@
 [<img align="left" title="NALStudio | Instagram" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/instagram.svg" />](https://instagram.com/niko.a.leinonen)
 [<img align="left" title="NALStudio | Steam" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/steam.svg" />](https://steamcommunity.com/id/NALStudio)
 <img align="left" title="NALStudio | Xbox" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/xbox.svg" />
-[<img align="left" title="NALStudio | Spotify" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/spotify.svg" />](https://open.spotify.com/user/nikoalex2005?si=e4934676839940d1)
+[<img align="left" title="NALStudio | Spotify" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/spotify.svg" />](https://open.spotify.com/user/nikoalex2005)
 [<img align="left" title="NALStudio | Discord" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/discord.svg" />](https://discord.com/users/340460001564819456)
 
 <br />
