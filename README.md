@@ -1,6 +1,6 @@
 # Hi there, I'm Niko 👋
 - 👔 CEO of NALStudio
-- 👥 Member of KL Corporation's board of trustees
+- 👥 Member of [KL Corporation](https://github.com/KL-Corporation)'s board of trustees
 
 ### I make games and stuff
 - 🔭 I’m currently working on <b>[Nysse Asemanäyttö](https://github.com/NALStudio/Nysse-Asemanaytto-V2)</b>.
