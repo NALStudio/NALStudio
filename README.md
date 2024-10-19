@@ -38,5 +38,5 @@
 
 ---
 
-| <a href="https://github.com/NALStudio"><img align="center" title="NAL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nalstudio&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true" /></a> | <a href="https://github.com/NALStudio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalstudio&layout=normal&size_weight=0.5&count_weight=0.5&hide_border=true" /></a> |
+| <a href="https://github.com/NALStudio"><img align="center" title="NAL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nalstudio&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&theme=transparent" /></a> | <a href="https://github.com/NALStudio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalstudio&layout=normal&hide=html&langs_count=3&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |
